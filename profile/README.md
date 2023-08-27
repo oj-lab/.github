@@ -28,3 +28,7 @@ We mainly rely abilities provided by **Github**(Ex. actions, discuss, projects) 
 But we may also use some tools like **Figma** for website designing, or **Discord** for public communicating(If we get enough fans).
 
 To join in this oganization, you may need to contribute some PR or Issues to help us getting know with you, then we will invite you in an appropriate time🎉.
+
+### 📖 Technical book
+
+Visit https://oj-lab.github.io/oj-lab-book/ for detailed guidline on our fullstack development solutions.
