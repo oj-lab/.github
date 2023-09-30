@@ -34,3 +34,9 @@ It won't be easy to start from here if you're a newbee, but hopefully we also st
 We'll record as detailed as possible to help you start.
 
 Visit https://oj-lab.github.io/oj-lab-book/ for detailed guidline on our fullstack development solutions.
+
+### 🌐 Content Website
+
+There is a preparing content website for OJ Lab.
+
+Visit https://oj-lab.github.io/oj-lab-docusaurus/ .
