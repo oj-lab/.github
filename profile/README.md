@@ -28,15 +28,17 @@ But we may also use some tools like **Figma** for website designing, or **Discor
 
 To join in this oganization, you may need to contribute some PR or Issues to help us getting know with you, then we will invite you in an appropriate time🎉.
 
-### 📖 Technical book
+### 🌐 Content Website
 
 It won't be easy to start from here if you're a newbee, but hopefully we also start everything from scratch.
 We'll record as detailed as possible to help you start.
 
-Visit https://oj-lab.github.io/oj-lab-book/ for detailed guidline on our fullstack development solutions.
-
-### 🌐 Content Website
-
 There is a preparing content website for OJ Lab.
 
 Visit https://oj-lab.github.io/oj-lab-docusaurus/ .
+
+#### 📖 Quick forward Notion Wiki (zh-CN)
+
+Our develop team holds a public simple Chinese Wiki document, some infomation in there may help you get to know with OJ Lab more quickly.
+
+Visit [OJ Lab Notion Wiki zh-CN](https://oj-lab.notion.site/f4d168062e554f179a49d28132d8fa3e?v=4ed8c5935eca4fc1a4feae61f7e4d019).
