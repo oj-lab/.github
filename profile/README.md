@@ -1,3 +1,5 @@
+![Discord](https://img.shields.io/discord/916955582181822486?label=Discord&color=blue&logo=discord&logoColor=white)
+
 ## Hi there 👋
 
 <!--
