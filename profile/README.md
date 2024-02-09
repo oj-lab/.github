@@ -1,5 +1,7 @@
 [![Discord](https://img.shields.io/discord/916955582181822486?label=Discord&color=blue&logo=discord&logoColor=white)](https://discord.gg/vh8NCgdp8J)
 
+![Preview](../oj-lab-preview.gif)
+
 ## Hi there 👋
 
 <!--
