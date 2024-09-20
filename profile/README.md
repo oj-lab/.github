@@ -1,8 +1,8 @@
 [![Discord](https://img.shields.io/discord/916955582181822486?label=Discord&color=blue&logo=discord&logoColor=white)](https://discord.gg/vh8NCgdp8J)
 
 <p align="center">
-  <a href="https://oj-lab.github.io/oj-lab-front/">Frontend Demo</a> |
-  <a href="https://oj-lab.github.io/oj-lab-docusaurus/">Knowledge Base</a> |
+  <a href="https://oj-lab.github.io/frontend/">Frontend Demo</a> |
+  <a href="https://oj-lab.github.io/docusaurus/">Knowledge Base</a> |
   <a href="https://us.umami.is/share/SD6rBas78XACKB8o/oj-lab.github.io">Site Metrics</a>
 </p>
 
