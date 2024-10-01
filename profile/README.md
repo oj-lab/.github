@@ -1,5 +1,7 @@
 [![Discord](https://img.shields.io/discord/916955582181822486?label=Discord&color=blue&logo=discord&logoColor=white)](https://discord.gg/vh8NCgdp8J)
 
+🆕 **Visit https://www.oj-lab.online to try Beta v0.1 in limited time now!**
+
 <p align="center">
   <a href="https://oj-lab.github.io/frontend/">Frontend Demo</a> |
   <a href="https://oj-lab.github.io/docusaurus/">Knowledge Base</a> |
